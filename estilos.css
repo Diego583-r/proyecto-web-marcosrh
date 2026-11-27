@@ -37,12 +37,12 @@
   li {
     background-color: #1e1e1e;
     padding: 15px 20px;
-    border-radius: 8px;
+    border-radius: 100px;
     border: 1px solid #333;
     transition: transform 0.2s ease;
   }
 
   li:hover {
     transform: translateY(-2px);
-    border-color: #ff416c;
+    border-color: #41ffff;
   }
